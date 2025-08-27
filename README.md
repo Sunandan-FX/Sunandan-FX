@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sunandan Das</h1>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 
-<!--
-**Sunandan-FX/Sunandan-FX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.gif">
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **DSA, Django, and Competitive Programming**
+- 👨‍💻 My projects are available at: [GitHub Repositories](https://github.com/Sunandan-FX?tab=repositories)
+- 📫 How to reach me: **sunandandas131@gmail.com**
+- 💬 Ask me about **HTML, CSS, Python, Java, C++, C, Django, SQL**
+- ⚡ Fun fact: **I love turning ideas into reality through code**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,cpp,c,django,mysql,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunandan-FX&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunandan-FX&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunandan-FX&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with Me:
+<p align="left">
+<a href="https://linkedin.com/in/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://facebook.com/" target="blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+<a href="https://instagram.com/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
